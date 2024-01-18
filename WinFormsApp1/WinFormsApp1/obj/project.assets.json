@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emprhaim Quiambao\\OneDrive\\Desktop\\Quiambao Emprhaim T. (ActivityGame)\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+      "projectUniqueName": "C:\\Users\\Emprhaim Quiambao\\OneDrive\\Desktop\\Casino-Games\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\Emprhaim Quiambao\\OneDrive\\Desktop\\Quiambao Emprhaim T. (ActivityGame)\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+      "projectPath": "C:\\Users\\Emprhaim Quiambao\\OneDrive\\Desktop\\Casino-Games\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
       "packagesPath": "C:\\Users\\Emprhaim Quiambao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emprhaim Quiambao\\OneDrive\\Desktop\\Quiambao Emprhaim T. (ActivityGame)\\WinFormsApp1\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\Emprhaim Quiambao\\OneDrive\\Desktop\\Casino-Games\\WinFormsApp1\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Emprhaim Quiambao\\AppData\\Roaming\\NuGet\\NuGet.Config",
